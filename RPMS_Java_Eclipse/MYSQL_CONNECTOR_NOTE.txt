@@ -1,0 +1,7 @@
+Required JDBC Driver:
+MySQL Connector/J
+
+Add the Connector/J JAR to your Eclipse/IntelliJ project classpath.
+
+The JAR is NOT included in this ZIP.
+Use the official MySQL Connector/J distribution appropriate for your environment.
